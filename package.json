@@ -4,7 +4,7 @@
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
     "c8": "^8.0.1",
-    "eslint": "^7.32.0",
+    "eslint": "^9.15.0",
     "gts": "^3.1.1",
     "husky": "^8.0.3",
     "ts-mocha": "^10.0.0",
